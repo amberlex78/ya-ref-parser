@@ -7,7 +7,7 @@ Yandex Referat Parser
 
 `composer install`
 
-Create DB and Import referats.sql file.
+Create DB and Import `referats.sql` file.
 
 Connect to DB in index.php file.
 
